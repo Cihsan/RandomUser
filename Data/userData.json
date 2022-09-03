@@ -7,6 +7,7 @@
       "contact": "+1 (984) 429-2037",
       "photoUrl": "http://placehold.it/32x32"
     },
+
     {
       "id": 1,
       "name": "Wynn Mccormick",
@@ -15,6 +16,7 @@
       "contact": "+1 (848) 408-2800",
       "photoUrl": "http://placehold.it/32x32"
     },
+    
     {
       "id": 2,
       "name": "Jensen Grant",
